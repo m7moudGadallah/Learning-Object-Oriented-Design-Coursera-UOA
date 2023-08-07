@@ -9,7 +9,11 @@
       - [Solution Files](#solution-files)
   - [Capstone Assignment 1.1 – UML Class Diagram](#capstone-assignment-11--uml-class-diagram)
     - [How to create your assignment](#how-to-create-your-assignment)
-  - [Solution Files](#solution-files)
+      - [Solution Files](#solution-files)
+  - [week3](#week3)
+    - [Ungraded Assignment – UML Sequence Diagram](#ungraded-assignment--uml-sequence-diagram)
+      - [Task Description](#task-description)
+      - [Solution Files](#solution-files)
 
 <!-- /TOC -->
 
@@ -68,8 +72,24 @@ The three types of relationships are:
 - Composition
 - Inheritance
 
-## Solution Files
+#### Solution Files
 
 - [capstone-assignment-1_1–uml-class-diagram](./week2/capstone-assignment-1_1–uml-class-diagram.pdf)
+
+**_[&uarr;top](#assignments)_**
+
+## week3
+
+### Ungraded Assignment – UML Sequence Diagram
+
+#### Task Description
+
+Create a UML sequence diagram that will show your clients how the system’s classes will interact when customers are buying their flight tickets on the booking website.
+
+The system should allow the customer to search available flights from the database by inputting their desired location and departure/arrival date. The website will search the database and return the available flights to display. Once the customer has chosen the flight, they will add the flight to their cart and checkout. They will also then input their payment information and once everything is complete, the website should confirm the flight, empty cart and lastly display a confirmation of the ticket for the flight.
+
+#### Solution Files
+
+- [sequence-digram-ungraded-practice-assignment](./week3/week3-sequence-digram-ungraded-practice-assignment.pdf)
 
 **_[&uarr;top](#assignments)_**
