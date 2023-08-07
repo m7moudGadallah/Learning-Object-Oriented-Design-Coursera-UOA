@@ -3,16 +3,16 @@
 <!-- TOC -->
 
 - [Learning Object Oriented Design - Coursera UOA](#learning-object-oriented-design---coursera-uoa)
-    - [Description](#description)
-    - [Course Topics](#course-topics)
-        - [Course Overview](#course-overview)
-        - [Module 1: Object-oriented analysis and design](#module-1-object-oriented-analysis-and-design)
-        - [Module 2: Object-Oriented Modelling](#module-2-object-oriented-modelling)
-        - [Module 3: Design Principles](#module-3-design-principles)
-    - [Materials](#materials)
-    - [Getting Started](#getting-started)
-    - [License](#license)
-    - [Acknowledgements](#acknowledgements)
+  - [Description](#description)
+  - [Course Topics](#course-topics)
+    - [Course Overview](#course-overview)
+    - [Module 1: Object-oriented analysis and design](#module-1-object-oriented-analysis-and-design)
+    - [Module 2: Object-Oriented Modelling](#module-2-object-oriented-modelling)
+    - [Module 3: Design Principles](#module-3-design-principles)
+  - [Materials](#materials)
+  - [Getting Started](#getting-started)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
 
 <!-- /TOC -->
 
@@ -75,6 +75,7 @@ Welcome to my personal repository for learning Object Oriented Design through th
 ## Materials
 
 - **_[Notes](https://docs.google.com/document/d/1gBDyQPzb4uj2716dnYmfrbkA1wjJnRebMxVP9Yat0og/edit?usp=sharing)_**
+- **_[Assignments](./assignments/README.md)_**
 
 **_[&uarr;top](#learning-object-oriented-design---coursera-uoa)_**
 
