@@ -3,17 +3,20 @@
 <!-- TOC -->
 
 - [Assignments](#assignments)
-  - [Week2](#week2)
-    - [Ungraded Assignment - UML Class Diagram](#ungraded-assignment---uml-class-diagram)
-      - [Task Description](#task-description)
-      - [Solution Files](#solution-files)
-  - [Capstone Assignment 1.1 – UML Class Diagram](#capstone-assignment-11--uml-class-diagram)
-    - [How to create your assignment](#how-to-create-your-assignment)
-      - [Solution Files](#solution-files)
-  - [week3](#week3)
-    - [Ungraded Assignment – UML Sequence Diagram](#ungraded-assignment--uml-sequence-diagram)
-      - [Task Description](#task-description)
-      - [Solution Files](#solution-files)
+    - [Week2](#week2)
+        - [Ungraded Assignment - UML Class Diagram](#ungraded-assignment---uml-class-diagram)
+            - [Task Description](#task-description)
+            - [Solution Files](#solution-files)
+    - [Capstone Assignment 1.1 – UML Class Diagram](#capstone-assignment-11--uml-class-diagram)
+        - [How to create your assignment](#how-to-create-your-assignment)
+            - [Solution Files](#solution-files)
+    - [week3](#week3)
+        - [Ungraded Assignment – UML Sequence Diagram](#ungraded-assignment--uml-sequence-diagram)
+            - [Task Description](#task-description)
+            - [Solution Files](#solution-files)
+        - [Capstone Assignment 1.2 – UML Sequence Diagram](#capstone-assignment-12--uml-sequence-diagram)
+            - [How to create your assignment](#how-to-create-your-assignment)
+            - [Solution Files](#solution-files)
 
 <!-- /TOC -->
 
@@ -91,5 +94,40 @@ The system should allow the customer to search available flights from the databa
 #### Solution Files
 
 - [sequence-digram-ungraded-practice-assignment](./week3/week3-sequence-digram-ungraded-practice-assignment.pdf)
+
+**_[&uarr;top](#assignments)_**
+
+### Capstone Assignment 1.2 – UML Sequence Diagram
+
+> Given: this [code base](./week2/capstone_assignment_materials/Y_n_-28dR8K5__tvHdfCzA_fde608d7579b432ba1e11f4ef4ac5393_SharingApp-c1-items-only-v4.zip)
+
+#### How to create your assignment
+
+Review the code responsible for adding a new item.
+
+Make a sequence diagram that captures the interactions of objects in the app when a new item is added.
+
+**Your sequence diagram should contain the following classes:**
+
+- AddItemActivity
+- ItemList
+- Dimensions
+- Item
+
+**And contain calls of the following methods:**
+
+- onCreate() (provided for you, see Template)
+- loadItems()
+- saveItem() (provided for you, see Template)
+- Dimensions constructor
+- Item constructor
+- addItem()
+- saveItems()
+
+Lastly, the activation of AddItemActivity should start with the call to “onCreate()”
+
+#### Solution Files
+
+- [assignment-capstone-uml-sequence-digram](./week3/week3-assignment-capstone-uml-sequence-digram.pdf)
 
 **_[&uarr;top](#assignments)_**
