@@ -20,6 +20,9 @@
         - [Ungraded Assignment – UML State Diagram](#ungraded-assignment--uml-state-diagram)
             - [Task Description](#task-description)
             - [Solution Files](#solution-files)
+        - [Capstone Assignment 1.3 – UML State Diagram](#capstone-assignment-13--uml-state-diagram)
+            - [How to create your assignment](#how-to-create-your-assignment)
+            - [Solution Files](#solution-files)
 
 <!-- /TOC -->
 
@@ -146,5 +149,26 @@ The airplanes should go through multiple different states. When planes are not i
 #### Solution Files
 
 - [week3-state-digram-practice-assignment-plane](./week3/week3-state-digram-practice-assignment-plane.pdf)
+
+**_[&uarr;top](#assignments)_**
+
+### Capstone Assignment 1.3 – UML State Diagram
+
+#### How to create your assignment
+
+Review the code responsible for adding a new item and editing an existing item.
+
+Remember that an item can either be “Available” or “Borrowed” and can either have an image attached or not.
+
+**In this assignment you are to make a state diagram that captures the four possible states of an item.**
+
+- Available without photo
+- Available with photo
+- Borrowed without photo
+- Borrowed with photo
+
+#### Solution Files
+
+- [week3-state-digram-capstone-assignment-item](./week3/week3-state-digram-capstone-assignment-item.pdf)
 
 **_[&uarr;top](#assignments)_**
