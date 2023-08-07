@@ -17,6 +17,9 @@
         - [Capstone Assignment 1.2 – UML Sequence Diagram](#capstone-assignment-12--uml-sequence-diagram)
             - [How to create your assignment](#how-to-create-your-assignment)
             - [Solution Files](#solution-files)
+        - [Ungraded Assignment – UML State Diagram](#ungraded-assignment--uml-state-diagram)
+            - [Task Description](#task-description)
+            - [Solution Files](#solution-files)
 
 <!-- /TOC -->
 
@@ -93,7 +96,7 @@ The system should allow the customer to search available flights from the databa
 
 #### Solution Files
 
-- [sequence-digram-ungraded-practice-assignment](./week3/week3-sequence-digram-ungraded-practice-assignment.pdf)
+- [week3-sequence-digram-ungraded-practice-assignment](./week3/week3-sequence-digram-ungraded-practice-assignment.pdf)
 
 **_[&uarr;top](#assignments)_**
 
@@ -128,6 +131,20 @@ Lastly, the activation of AddItemActivity should start with the call to “onCre
 
 #### Solution Files
 
-- [assignment-capstone-uml-sequence-digram](./week3/week3-assignment-capstone-uml-sequence-digram.pdf)
+- [week3-assignment-capstone-uml-sequence-digram](./week3/week3-assignment-capstone-uml-sequence-digram.pdf)
+
+**_[&uarr;top](#assignments)_**
+
+### Ungraded Assignment – UML State Diagram
+
+#### Task Description
+
+During your two previous assignments you created a UML class diagram and sequence diagram to display your new system for North American airports. You are now required to create a UML state diagram to communicate the state of the planes in the airports.
+
+The airplanes should go through multiple different states. When planes are not in use for a flight they are usually waiting to be assigned. Once a plane is chosen to be used for a flight, they are assigned to that flight until the airplane is ready for take-off. While the plane is in the air and flying the state is termed ‘en route’. Once the plane has reached its destination, the plane has to change into a state of landing for the airport to prepare for its arrival. Finally, once the plane has successfully landed, the plane is checked to see if it is ready to be assigned to a new flight or if maintenance is required. If maintenance is required the plane is unusable and if a mechanic decides that the plane cannot be repaired it is removed from the airport and disposed.
+
+#### Solution Files
+
+- [week3-state-digram-practice-assignment-plane](./week3/week3-state-digram-practice-assignment-plane.pdf)
 
 **_[&uarr;top](#assignments)_**
